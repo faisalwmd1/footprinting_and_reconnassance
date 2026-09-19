@@ -140,6 +140,9 @@ mining this data for your own personal or commercial purposes. Failure to comply
 may result in termination of access to the Whois database. These terms may be subject to modification
 at any time without notice.
 
+# screenshot
+1.PNG
+
 **NOTICE** This WHOIS server is being retired. Please use our RDAP service instead.
 # whatweb command 
 # whatweb networkwalks.com
@@ -149,6 +152,8 @@ http://networkwalks.com [301 Moved Permanently] Apache, Cookies[__wpdm_client], 
 https://networkwalks.com [200 OK] Apache, Bootstrap[7.1.1], Cookies[__wpdm_client], Country[UNITED STATES][US], Email[info@networkwalks.com], Frame, Google-Tag-Manager, HTML5, HTTPServer[Apache], HttpOnly[__wpdm_client], IP[192.232.216.135], JQuery[3.7.1], MetaGenerator[WordPress 7.1.1,WordPress Download Manager 3.3.58], Open-Graph-Protocol[website], Script[4684NR-IPIB&amp;pidnVar2=50511&amp;prtVar2=7&amp;scvVar2=12,application/json,application/ld+json,module,speculationrules,text/javascript], Title[Networkwalks Academy], UncommonHeaders[permissions-policy,link,upgrade,referrer-policy,x-endurance-cache-level,x-nginx-cache], WordPress[7.1.1]
 https://networkwalks.com/ [200 OK] Apache, Bootstrap[7.1.1], Country[UNITED STATES][US], Email[info@networkwalks.com], Frame, Google-Tag-Manager, HTML5, HTTPServer[Apache], IP[192.232.216.135], JQuery[3.7.1], MetaGenerator[WordPress 7.1.1,WordPress Download Manager 3.3.58], Open-Graph-Protocol[website], Script[4684NR-IPIB&amp;pidnVar2=50511&amp;prtVar2=7&amp;scvVar2=12,application/json,application/ld+json,mod
 ule,speculationrules,text/javascript], Title[Networkwalks Academy], UncommonHeaders[permissions-policy,link,upgrade,referrer-policy,x-endurance-cache-level,x-nginx-cache], WordPress[7.1.1]
+# screenshot
+2.PNG
 
 # nslookup
 # nslookup networkwalks.com
@@ -160,6 +165,8 @@ Address:        192.168.1.1#53
 Non-authoritative answer:
 Name:   networkwalks.com
 Address: 192.232.216.135
+# screenshot
+3.PNG
 
 # curl -I
 # curl -I https://networkwalks.com
@@ -176,7 +183,8 @@ x-nginx-cache: WordPress
 content-type: text/html; charset=UTF-8
 date: Fri, 18 Sep 2026 01:57:30 GMT
 server: Apache
-
+# sacreenshot
+4.PNG
 
 # wafw00f
 # wafw00f command
@@ -189,6 +197,8 @@ During a penetration test or security audit, running heavy exploit tools or vuln
 [+] The site https://networkwalks.com is behind ModSecurity (SpiderLabs) WAF.
 [~] Number of requests: 2
 
+# screenshot 
+5.PNG
 # dnsrecon -d
 # dnsrecon -d command
 
@@ -218,6 +228,15 @@ dnsrecon -d networkwalks.com
 2026-09-17T22:00:10.396937-0400 INFO     SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.203.15 443
 2026-09-17T22:00:10.515079-0400 INFO 8 Records Found
 2026-09-17T22:00:10.515615-0400 INFO Completed enumeration for domain: networkwalks.com
+
+# screenshot
+6.PNG<img width="952" height="336" alt="6" src="https://github.com/user-attachments/assets/5623f3d8-df61-435b-bc8c-89a9a1642210" />
+<img width="946" height="230" alt="5" src="https://github.com/user-attachments/assets/cf632e15-e1d1-4fe5-ba9f-2b533b6a781a" />
+<img width="960" height="237" alt="4" src="https://github.com/user-attachments/assets/f9f6347e-bd43-4f5e-a36e-63db5af4c5aa" />
+<img width="959" height="132" alt="3" src="https://github.com/user-attachments/assets/546af3f1-0eb3-4da0-b3dd-4fbd5881187c" />
+<img width="959" height="220" alt="2" src="https://github.com/user-attachments/assets/f299cf30-f4ca-4b0c-a988-9e9d63f14f0b" />
+<img width="959" height="421" alt="1" src="https://github.com/user-attachments/assets/a5a7b8c2-e0b9-46e7-9aaa-9db545358935" />
+
 
 
 
